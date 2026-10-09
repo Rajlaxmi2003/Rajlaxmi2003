@@ -120,9 +120,9 @@
 
 <div align="center">
 
-  <a href="./Cisco%20Intro%20to%20CyberSecurity.pdf">
-    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certificate"/>
-  </a>
+  <a href="./Certificate%20of%20Cisco.pdf">
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certificate"/>
+</a>
 
   <br><br>
 
