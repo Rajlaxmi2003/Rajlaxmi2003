@@ -145,4 +145,37 @@
 
 To build practical projects, strengthen my problem-solving skills, and grow in software development and cybersecurity.
 
+
+
+---
+
+<h2 align="center">💼 Internship Experience</h2>
+
+<div align="center">
+
+  <h3>🏢 Tata Steel</h3>
+  <h4>EDEV Management System</h4>
+
+  <img src="https://img.shields.io/badge/Company-Tata%20Steel-00529B?style=for-the-badge" alt="Tata Steel"/>
+  <img src="https://img.shields.io/badge/Experience-Internship-success?style=for-the-badge" alt="Internship"/>
+
+</div>
+
+### 📌 About My Internship
+
+- Completed an internship at Tata Steel.
+- Worked on the EDEV Management System.
+- Gained exposure to an industry-related project.
+- Developed technical and problem-solving skills.
+
+### 📄 Internship Certificate
+
+<p align="center">
+  <a href="./Certificate%20of%20TataSteel.pdf">
+    <img src="https://img.shields.io/badge/View-Internship%20Certificate-00529B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Tata Steel Internship Certificate"/>
+  </a>
+</p>
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
