@@ -1,6 +1,7 @@
-[<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Rajlaxmi&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
