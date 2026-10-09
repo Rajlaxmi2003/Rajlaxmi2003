@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Rajlaxmi&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajlaxmi2003&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajlaxmi2003&layout=compact&theme=tokyonight" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajlaxmi2003&theme=tokyonight" width="70%" />
+</div>
+
+
 # 💫 About Me:
 👋 Hi, I'm Rajlaxmi Kumari!<br><br>🎓 I'm a passionate Computer Science student interested in software development and cybersecurity.<br><br>💻 Currently learning Java, Data Structures & Algorithms, Web Development, and Cloud Computing.<br><br>🔐 Interested in cybersecurity, cloud computing, and building secure web applications and websites..<br><br>☁️ Exploring AWS and Cisco networking technologies.<br><br>🚀 Working on projects to improve my problem-solving and development skills.
 
