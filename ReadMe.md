@@ -114,23 +114,38 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+---
 
-### ☁️ AWS Cloud
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Learning"/>
-</p>
+<h2 align="center">🏆 My Certifications</h2>
 
-- Completed learning modules on AWS Skill Builder.
-- Exploring cloud computing and AWS services.
+<div align="center">
 
-### 🌐 Cisco Networking
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking"/>
-</p>
+  <a href="./Cisco%20Intro%20to%20CyberSecurity.pdf">
+    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certificate"/>
+  </a>
 
-- Completed Cisco learning modules and assessments.
-- Learning networking and security fundamentals.
+  <br><br>
+
+  <a href="./AWS_Certificate_Final_Upright.pdf">
+    <img src="https://img.shields.io/badge/AWS-AWS%20Certificate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certificate"/>
+  </a>
+
+  <br><br>
+
+  <a href="./SQL_BASIC.pdf">
+    <img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Basic Certificate"/>
+  </a>
+
+  <br><br>
+
+  <a href="./SQL_INTERMEDIATE.pdf">
+    <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Intermediate Certificate"/>
+  </a>
+
+</div>
+
+---
+
 
 ### 🎯 Currently Learning
 <p>
